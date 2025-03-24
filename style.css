@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+.hero {
+    background: url('https://source.unsplash.com/1600x900/?event,party') center/cover no-repeat;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+.countdown {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.gallery img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    height:100%;
+}
